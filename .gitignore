@@ -1,0 +1,39 @@
+# Project exclude paths
+/.gradle/
+/Minesweeper/task/build/
+/Minesweeper/task/out/
+/Minesweeper/task/out/production/classes/
+/Topics/Comments/Uncomment a line/out/
+/Topics/Comments/Uncomment a line/out/production/classes/
+/Topics/Extension functions/Last digit/out/
+/Topics/Extension functions/Last digit/out/production/classes/
+/Topics/For loop and lists/Right Rotation/out/
+/Topics/For loop and lists/Right Rotation/out/production/classes/
+/Topics/For loop and lists/Two numbers in a row/out/
+/Topics/For loop and lists/Two numbers in a row/out/production/classes/
+/Topics/For loop and ranges/Count the numbers/out/
+/Topics/For loop and ranges/Count the numbers/out/production/classes/
+/Topics/For loop and ranges/Fizz Buzz/out/
+/Topics/For loop and ranges/Fizz Buzz/out/production/classes/
+/Topics/For loop and ranges/The sum of N numbers/out/
+/Topics/For loop and ranges/The sum of N numbers/out/production/classes/
+/Topics/Introduction to MutableList/Initializing a list/out/
+/Topics/Introduction to MutableList/Initializing a list/out/production/classes/
+/Topics/Introduction to MutableList/Swap/out/
+/Topics/Introduction to MutableList/Swap/out/production/classes/
+/Topics/Multi-dimensional list/Cube of zeros/out/
+/Topics/Multi-dimensional list/Cube of zeros/out/production/classes/
+/Topics/Random/Always win the dice game/out/
+/Topics/Random/Always win the dice game/out/production/classes/
+/Topics/Random/Predictable  random  password/out/
+/Topics/Random/Predictable  random  password/out/production/classes/
+/Topics/Random/Temperature generator/out/
+/Topics/Random/Temperature generator/out/production/classes/
+/Topics/Ranges/Between two numbers/out/
+/Topics/Ranges/Between two numbers/out/production/classes/
+/Topics/String basics/JSON/out/
+/Topics/String basics/JSON/out/production/classes/
+/Topics/String templates/Print two numbers on the same line/out/
+/Topics/String templates/Print two numbers on the same line/out/production/classes/
+/Topics/Type conversion/Lie detector/out/
+/Topics/Type conversion/Lie detector/out/production/classes/
